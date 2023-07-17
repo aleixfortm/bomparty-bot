@@ -1,3 +1,17 @@
+
+### **<p align="center">Bombparty bot</p>**
+
+
+<p align="center"><strong>Automated Bombparty game bot</strong><br>Win every game while AFK with this automated bot</p>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=python,selenium" />
+  </a>
+</div>
+
+
+
 # BombParty-bot
 
 BombParty is an online game at [jklm.fun](https://jklm.fun) where players have to provide a word that contains the given syllable before the bomb explodes. By using Selenium and several language dictionaries, this program is able to fetch data from the game, compute it, and type back an answer into the game automatically. It has been coded so that the answer is written as humanly as possible, simulating human typing and thinking.
